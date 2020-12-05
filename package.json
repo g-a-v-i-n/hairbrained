@@ -1,0 +1,16 @@
+{
+  "name": "hairbrained",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gavin Atkinson",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "needle": "^2.5.2",
+    "twilio": "^3.53.0"
+  }
+}
